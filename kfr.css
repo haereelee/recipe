@@ -5,8 +5,8 @@ body{
 	font-family: "VT323", monospace; /*designer: peter hull*/
 	font-size: 21px;
 	line-height: 1em;
+	letter-spacing: 1.3px;
 	color: #ffffff;
-	background-color: #ffb25f;
 	margin-top: 2em;
 	margin-right: auto;
 	margin-bottom: 2em;
@@ -15,7 +15,7 @@ body{
 	max-width: 1200px;
 	padding: 2em;
 	border: 1em solid #b22222;
-	letter-spacing: 1.3px;
+	background-color: #ff7f50;
 }
 
 h1{
