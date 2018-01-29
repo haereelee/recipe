@@ -1,11 +1,11 @@
 Kimchi Fried Rice Recipe css
-
+.recipe{}
 
 body{
 	font-family: "VT323", monospace; /*designer: peter hull*/
 	font-size: 21px;
 	line-height: 1em;
-	color: pink;
+	color: #ffffff;
 	background-color: #ffb25f;
 	margin-top: 2em;
 	margin-right: auto;
