@@ -1,14 +1,14 @@
 Kimchi Fried Rice Recipe css
 
 .recipe{
-	margin-top: 1em;
+	margin-top: 2em;
 	margin-right: auto;
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 	margin-left: auto;
-	width: 90%;
+	width: 80%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #eee;
+	border: 1em solid #b22222;
 }
 
 body{
