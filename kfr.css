@@ -10,16 +10,14 @@ Kimchi Fried Rice Recipe css
 	max-width: 1200px;
 	padding: 2em;
 	border: 1em solid #b22222;
-	font-family: "VT323", monospace; /*designer: peter hull*/
-	font-size: 21px;
-	line-height: 1em;
 	letter-spacing: 1.3px;
-	font: #ffffff;
 	background-color: #ffb25f;
 }
 
 body{
+	font-family: "VT323", monospace; /*designer: peter hull*/
 	font-size: 21px;
+	line-height: 1em;
 	color: #ffffff;
 }
 
