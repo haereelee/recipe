@@ -18,6 +18,11 @@ Kimchi Fried Rice Recipe css
 	background-color: #ffb25f;
 }
 
+body{
+	font-size: 21px;
+	color: #ffffff;
+}
+
 h1{
 	letter-spacing: 6px;
 }
