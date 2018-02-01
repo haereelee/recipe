@@ -34,6 +34,7 @@ h1{
 
 p{
 	line-height: 2px;
+	font-size: 18px;
 }
 
 h3{
@@ -43,6 +44,7 @@ h3{
 
 img {
 	border: 0.3em solid #b22222;
+	padding: 2px
 }
 
 ---------/*end css*/-----------
